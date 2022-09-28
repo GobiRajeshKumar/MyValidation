@@ -1,0 +1,16 @@
+PODS:
+  - MyValidation (0.1.0)
+
+DEPENDENCIES:
+  - MyValidation (from `../`)
+
+EXTERNAL SOURCES:
+  MyValidation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyValidation: 8b3c769dabfcbc5644ffa4e86b32f0cec4c7ca93
+
+PODFILE CHECKSUM: 41981982e5e167bf7bc67066cb74d8ae379bda92
+
+COCOAPODS: 1.11.3
