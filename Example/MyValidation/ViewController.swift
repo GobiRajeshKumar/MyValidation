@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         let answer = MyValidation.isValidName("gob")
         print(answer)
+        
+        let phonenumber = MyValidation.isValidPhoneNumber(1234567890)
+        print(phonenumber)
     }
 
     override func didReceiveMemoryWarning() {

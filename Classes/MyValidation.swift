@@ -11,7 +11,8 @@ public class MyValidation {
     
     public init() { }
     
-    public static func isValidPhoneNumber(_ number: String) -> Bool {
+    public static func isValidPhoneNumber(_ number: Int64) -> Bool {
+        let number = String(number)
         let set = CharacterSet(charactersIn: number)
         guard CharacterSet.decimalDigits.isSuperset(of: set) && number.count == 10 else { return false }
         return true
