@@ -1,6 +1,6 @@
 # MyValidation
 
-[![CI Status](https://img.shields.io/travis/RajeshQanvus/MyValidation.svg?style=flat)](https://travis-ci.org/RajeshQanvus/MyValidation)
+[![CI Status](https://img.shields.io/travis/GobiRajeshKumar/MyValidation.svg?style=flat)](https://travis-ci.org/RajeshQanvus/MyValidation)
 [![Version](https://img.shields.io/cocoapods/v/MyValidation.svg?style=flat)](https://cocoapods.org/pods/MyValidation)
 [![License](https://img.shields.io/cocoapods/l/MyValidation.svg?style=flat)](https://cocoapods.org/pods/MyValidation)
 [![Platform](https://img.shields.io/cocoapods/p/MyValidation.svg?style=flat)](https://cocoapods.org/pods/MyValidation)
@@ -22,7 +22,7 @@ pod 'MyValidation'
 
 ## Author
 
-RajeshQanvus, rajeshgobi46@gmail.com
+  GobiRajeshKumar, rajeshgobi46@gmail.com
 
 ## License
 

@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import MyValidation
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let answer = MyValidation.isValidName("gob")
+        print(answer)
     }
 
     override func didReceiveMemoryWarning() {
